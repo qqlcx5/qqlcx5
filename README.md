@@ -23,6 +23,9 @@
 - 2️⃣ GitHub Pages(fast)：<http://qqlcx5.github.io/>
 - 3️⃣ Gitee Pages(fast)：<https://qqlcx5.gitee.io/>
 
+<details>
+<summary>💫 更多 </summary>
+
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
@@ -35,3 +38,8 @@ JSON         3 hrs 33 mins   ███▒░░░░░░░░░░░░░
 YAML         1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 ```
 <!--END_SECTION:waka-->
+
+ 
+## Github Activity Graph
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qqlcx5&theme=react-dark&bg_color=d55978)](https://github.com/qqlcx5)
+</details>
