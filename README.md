@@ -10,7 +10,6 @@
 
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about JS
-- 😄 Pronouns: youngkbt
 - ⚡ Fun fact: 🎵 & 🎮 & 💻  
 - :meat_on_bone: Meat lover
 
