@@ -22,7 +22,7 @@
 
 ## 🌐 My Website
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">：✨<https://feyoudao.cn/>✨
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ✨<https://feyoudao.cn/>✨
 
 ## 🔥 My projects:
 
