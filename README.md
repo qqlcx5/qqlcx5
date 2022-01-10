@@ -22,3 +22,7 @@
 - 1️⃣ Main(fast)：<https://feyoudao.cn/>
 - 2️⃣ GitHub Pages(fast)：<http://qqlcx5.github.io/>
 - 3️⃣ Gitee Pages(fast)：<https://qqlcx5.gitee.io/>
+
+## This Week I Spent My Time On:
+<!--START_SECTION:waka--> 
+<!--END_SECTION:waka-->
