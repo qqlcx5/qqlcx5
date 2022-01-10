@@ -1,7 +1,7 @@
-<h3 align="center">
+<h2 align="center">
     Hi~ Thank you for coming!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-</h3>
+</h2>
 
 🎉 **Welcome to my GitHub profile!**
 
@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
-## Hello World 👋
+## Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about JS
