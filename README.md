@@ -13,7 +13,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
-## Profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Profile
 
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about JS
