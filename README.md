@@ -26,7 +26,7 @@
 
 ## 🔥 My projects:
 
-- [website](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
+- [博客官网 Html Pages](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
 - [frontend](https://github.com/qqlcx5/frontend) - 存放博客文章项目
 - [nutils-js](https://github.com/qqlcx5/frontend) - 🚀 一个模块化、高性能的 JavaScript 实用工具库。
 
