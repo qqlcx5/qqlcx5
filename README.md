@@ -1,3 +1,10 @@
+<h3 align="center">
+    Hi~ Thank you for coming!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h3>
+
+🎉 **Welcome to my GitHub profile!**
+
 <a href="https://github.com/qqlcx5/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
@@ -15,16 +22,24 @@
 
 ## My Website
 
-💻：<https://feyoudao.cn/>
-  
-## My Blog Websites
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">：✨<https://feyoudao.cn/>✨
 
-- 1️⃣ Main(fast)：<https://feyoudao.cn/>
-- 2️⃣ GitHub Pages(fast)：<http://qqlcx5.github.io/>
-- 3️⃣ Gitee Pages(fast)：<https://qqlcx5.gitee.io/>
+## 🔥 My projects:
+
+- [website](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
+- [frontend](https://github.com/qqlcx5/frontend) - 存放博客文章项目
+- [nutils-js](https://github.com/qqlcx5/frontend) - 🚀 一个模块化、高性能的 JavaScript 实用工具库。
+
+---
 
 <details>
 <summary>💫 更多 </summary>
+
+## My Blog Websites
+
+- 1️⃣ Main(fast)：✨<https://feyoudao.cn/>✨
+- 2️⃣ GitHub Pages(fast)：✨<http://qqlcx5.github.io/>✨
+- 3️⃣ Gitee Pages(fast)：✨<https://qqlcx5.gitee.io/>✨
 
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
