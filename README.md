@@ -44,7 +44,7 @@
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
 Vue.js       13 hrs 10 mins  █████████▓░░░░░░░░░░░░░░░   38.79 % 
 JavaScript   6 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
