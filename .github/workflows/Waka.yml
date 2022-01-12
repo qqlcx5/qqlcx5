@@ -4,9 +4,8 @@ on:
   workflow_dispatch:
   push:
     branches: master
-  # schedule:
-  #   # Runs at 12am UTC
-  #   - cron: "0 */2 * * *"
+  schedule:
+    - cron: "0 0 1 ？ * L"
 
 jobs:
   update-readme:
