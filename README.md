@@ -44,13 +44,13 @@
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Week: 08 January, 2022 - 14 January, 2022
+Week: 09 January, 2022 - 15 January, 2022
 
-Vue.js       12 hrs 16 mins  █████████▓░░░░░░░░░░░░░░░   38.87 % 
-JavaScript   6 hrs 35 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.90 % 
-Markdown     5 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 % 
-JSON         2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Bash         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Vue.js       12 hrs 3 mins   ██████████▒░░░░░░░░░░░░░░   41.06 % 
+JavaScript   6 hrs 19 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.52 % 
+Markdown     4 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+JSON         2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Bash         1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 ```
 <!--END_SECTION:waka-->
 
