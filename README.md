@@ -26,16 +26,15 @@
 
 ## 🔥 My projects:
 
-- [博客官网 Html Pages](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
-- [frontend](https://github.com/qqlcx5/frontend) - 存放博客文章项目
-- [nutils-js](https://github.com/qqlcx5/frontend) - 🚀 一个模块化、高性能的 JavaScript 实用工具库。
+- [个人网站](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
+- [frontend](https://github.com/qqlcx5/frontend) - 存放网站文章项目
+- [nutils-js](https://github.com/qqlcx5/nutils-js) - 🚀 开发一个模块化、高性能的 JavaScript 实用工具库。
 
 ## My Blog Websites
 
 - 1️⃣ Main(fast)：✨<https://feyoudao.cn/>✨
-- 2️⃣ GitHub Pages(fast)：✨<http://qqlcx5.github.io/>✨
-- 3️⃣ Gitee Pages(fast)：✨<https://qqlcx5.gitee.io/>✨
-
+- 2️⃣ vercel Pages：✨<https://feyoudao.vercel.app/>✨
+- 3️⃣ Gitee Pages：✨<https://qqlcx5.gitee.io/>✨
 ---
 
 <details>
