@@ -25,7 +25,6 @@
 
 ## 🔥 My projects:
 
-- [个人网站](https://github.com/qqlcx5/qqlcx5.github.io) - Vuepress项目
 - [frontend](https://github.com/qqlcx5/frontend) - 存放网站文章项目
 - [nutils-js](https://github.com/qqlcx5/nutils-js) - 🚀 开发一个模块化、高性能的 JavaScript 实用工具库。
 
