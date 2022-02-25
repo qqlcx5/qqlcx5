@@ -18,7 +18,6 @@
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about JS
 - ⚡ Fun fact: 🎵 & 🎮 & 💻  
-- :meat_on_bone: Meat lover
 
 ## 🌐 My Website
 
@@ -26,7 +25,7 @@
 
 ## 🔥 My projects:
 
-- [个人网站](https://github.com/qqlcx5/qqlcx5.github.io) - 博客项目
+- [个人网站](https://github.com/qqlcx5/qqlcx5.github.io) - Vuepress项目
 - [frontend](https://github.com/qqlcx5/frontend) - 存放网站文章项目
 - [nutils-js](https://github.com/qqlcx5/nutils-js) - 🚀 开发一个模块化、高性能的 JavaScript 实用工具库。
 
@@ -36,9 +35,6 @@
 - 2️⃣ vercel Pages：✨<https://feyoudao.vercel.app/>✨
 - 3️⃣ Gitee Pages：✨<https://qqlcx5.gitee.io/>✨
 ---
-
-<details>
-<summary>💫 更多 </summary>
 
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
@@ -56,4 +52,6 @@ CSS          20 mins         ▒░░░░░░░░░░░░░░░░
  
 ## Github Activity Graph
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qqlcx5&theme=react-dark&bg_color=d55978)](https://github.com/qqlcx5)
-</details>
+<!-- <details>
+<summary>💫 更多 </summary>
+</details> -->
