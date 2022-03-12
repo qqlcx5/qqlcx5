@@ -39,14 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2022 - To: 05 March 2022
-
-Vue.js       4 hrs 43 mins   ████████▓░░░░░░░░░░░░░░░░   34.47 %
-Bash         3 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   23.85 %
-JavaScript   3 hrs 12 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
-JSON         58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-Markdown     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.19 %
-YAML         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
