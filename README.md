@@ -23,17 +23,30 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ✨<https://feyoudao.cn/>✨
 
-## 🔥 My projects:
+## 🔥 Developer
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+<!-- ## 🔥 My projects:
 
 - [frontend](https://github.com/qqlcx5/frontend) - 存放网站文章项目
-- [nutils-js](https://github.com/qqlcx5/nutils-js) - 🚀 开发一个模块化、高性能的 JavaScript 实用工具库。
-
+- [nutils-js](https://github.com/qqlcx5/nutils-js) - 🚀 开发一个模块化、高性能的 JavaScript 实用工具库。 -->
+<!-- 
 ## My Blog Websites
 
 - 1️⃣ Main(fast)：✨<https://feyoudao.cn/>✨
 - 2️⃣ vercel Pages：✨<https://feyoudao.vercel.app/>✨
 - 3️⃣ Gitee Pages：✨<https://qqlcx5.gitee.io/>✨
----
+--- -->
 
 ## This Week I Spent My Time On:
 <!--START_SECTION:waka-->
