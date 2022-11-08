@@ -6,20 +6,20 @@
 🎉 **Welcome to my GitHub profile!**
 
 <a href="https://github.com/qqlcx5/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
 <a href="https://github.com/qqlcx5/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
 ## Profile
 
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about FE
-- ⚡ Fun fact: 🎵 & 🎮 & 💻  
-- 👾我目前对在 实现`acme-theme` 主题感兴趣
-- 🌭我的梦想：while(sleeping){money++;}
+- ⚡ 我的兴趣: 听歌，玩游戏、coding  
+- 👾我目前对实现`vuepress-theme-acme`主题感兴趣
+- 🌭我的梦想：`while(sleeping){money++;}`
 
 ## 🌐 My Website
 
