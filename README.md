@@ -6,12 +6,14 @@
 🎉 **Hey there, you found me.**
 
 <a href="https://github.com/qqlcx5/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
 <a href="https://github.com/qqlcx5/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
+
+
 
 
 ## Profile
