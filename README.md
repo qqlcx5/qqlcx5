@@ -10,7 +10,7 @@
 </a>
 
 <a href="https://github.com/qqlcx5/">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
+  <img align="right" width="80" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
 ## Profile
