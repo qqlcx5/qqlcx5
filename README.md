@@ -16,8 +16,10 @@
 ## Profile
 
 - 🔭 I’m currently working on Xiamen
-- 💬 You can ask me about JS
+- 💬 You can ask me about FE
 - ⚡ Fun fact: 🎵 & 🎮 & 💻  
+- - 👾我目前对在 实现`acme-theme` 主题感兴趣
+- 🌭我的梦想：while(sleeping){money++;}
 
 ## 🌐 My Website
 
