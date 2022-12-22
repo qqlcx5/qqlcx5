@@ -19,7 +19,7 @@
 
 <h3>
 <a href="https://github.com/qqlcx5/">
-  <img style="height: 100px" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
+  <img style="height: 165px" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
 
 <a href="https://github.com/qqlcx5/">
