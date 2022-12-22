@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://github.com/qqlcx5/">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
 
