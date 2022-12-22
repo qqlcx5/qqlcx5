@@ -17,16 +17,17 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ✨<https://feyoudao.cn/>✨
 
-## vercel
-
-<a href="https://github.com/qqlcx5/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
+<h3>
+  <a href="https://github.com/qqlcx5/">
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlcx5&layout=compact" />
 </a>
 
 <a href="https://github.com/qqlcx5/">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=qqlcx5&theme=algolia&count_private=true&show_icons=true" />
 </a>
-<br />
+</h3>
+
+
 
 ## 🔥Developer
 
