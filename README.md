@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on Xiamen
 - 💬 You can ask me about FE
 - ⚡ 我的兴趣: 听歌，玩游戏、coding  
-- 👾我目前对实现`vuepress-theme-acme`主题感兴趣
+- 👾我目前对实现`vitepress-theme-neo`主题感兴趣
 - 🌭我的梦想：`while(sleeping){money++;}`
 
 ## 🌐 My Website
